@@ -1,6 +1,6 @@
-## Project Description
+## Visualizing Pharmaceutical Research 
 
-In this project, I will be working with a pharmaceutical research dataset to compare the performance of the drug "Capomulin" versus other treatment regimens for squamous cell carcinoma (SCC), a commonly occuring form of skin cancer. The focus of my project will be to create visualizations using Matplotlib to prove or disprove Capomulin's effectiveness. 
+I will be working with a pharmaceutical research dataset to compare the performance of the drug "Capomulin" versus other treatment regimens for squamous cell carcinoma (SCC), a commonly occuring form of skin cancer. The focus of my project will be to create visualizations using Matplotlib to prove or disprove Capomulin's effectiveness. 
 
 ## Features & Libraries
 
